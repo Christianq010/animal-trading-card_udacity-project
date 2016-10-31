@@ -1,0 +1,44 @@
+/* add your CSS here */
+
+#card-container {
+  font-family: "Open Sans", sans-serif;
+  border: thin solid #c3c3c3;
+  margin-top: 5px;
+  margin-left: 5px;
+  width: 350px;
+  box-shadow: 4px 5px 4px 4px rgba(230,230,230,0.97);
+}
+
+.text-container {
+  width: 300px;
+  font-size: 13px;
+  margin: 12px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #c3c3c3;
+  border-radius: 10px;
+}
+
+.animal_fact {
+  font-style: italic;
+}
+
+.animal_title {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 12px;
+  margin-top: 15px;
+}
+
+.animal_list_type {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+p,
+ul,
+.placeholder-image {
+  margin: 12px;
+  list-style-type: none;
+  padding-left: 0px;
+}
